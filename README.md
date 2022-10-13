@@ -16,4 +16,4 @@ An R Package that has a few interesting uses regarding *constant random variable
 **Step 2:** In RStudio go to **Tools**.\
 **Step 3:** Go to **Install Packages**.\
 **Step 4:** In the _Install From_ set it as **Package Archive File (.zip; .tar.gz)**\
-**Step 5:** Then _Browse_ find your package file (betterCRV.zip) and _after some time (after it shows the **Package path and file name** in the _Package Archive_ tab)_ select it to add to used packages.\
+**Step 5:** Then _Browse_ find your package file (betterCRV.zip) and _after some time (after it shows the **Package path and file name** in the _Package Archive_ tab)_ select it to add to used packages.
