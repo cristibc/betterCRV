@@ -1,0 +1,10 @@
+Package: betterCRV
+Type: Package
+Title: Pachetul ofera diferite functii ce faciliteaza lucrul cu variabile aleatoare continue
+Version: 0.1.0
+Author: Echipa Borcan-Telea-Draghioti
+Maintainer: Tot noi
+Description: Diferite functii 
+License: BSD 3-Clause License
+Encoding: UTF-8
+LazyData: true
