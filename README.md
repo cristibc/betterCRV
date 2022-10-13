@@ -10,6 +10,7 @@ An R Package that has a few interesting uses regarding *constant random variable
  - Generate random values out of a CDF
  - Calculate and plot the sum and difference of two independent constant random variables
 
+
 Steps to install the package:
 
 **Step 1** Clone repo and archive as zip OR download zip from releases.
