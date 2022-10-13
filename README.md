@@ -11,10 +11,11 @@ An R Package that has a few interesting uses regarding *constant random variable
  - Calculate and plot the sum and difference of two independent constant random variables
 
 Steps to install the package:
+
 **Step 1** Clone repo and archive as zip OR download zip from releases.
 
-**Step 2:** Go to **Tools**
-.
+**Step 2:** Go to **Tools**.
+
 **Step 3:** Go to **Install Packages**.
 
 **Step 4:** In the _Install From_ set it as **Package Archive File (.zip; .tar.gz)**
